@@ -1,11 +1,11 @@
 first_number = 2.0
 
-num2 = 5
+second_number = 5
 
-sum = num1 + num2
+sum = first_number + second_number
 
-difference = num1 - num2
+difference = first_number - second_number
 
-product = num1 * num2
+product = first_number * second_number
 
-quotient = num1 / nmu2
+quotient = first_number / second_number
